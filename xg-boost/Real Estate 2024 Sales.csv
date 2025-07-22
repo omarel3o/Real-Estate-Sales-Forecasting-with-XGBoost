@@ -1,0 +1,13 @@
+Date,Product Name,Units Sold,Unit Price (EGP),Discount (%),Website Visits,Price after discount
+2024-01-31,Luxury Apartment A,6,"1,200,000",4.5,1400,1146000
+2024-02-29,Luxury Apartment A,4,"1,200,000",NA,1350,"1,200,000"
+2024-03-31,Luxury Apartment A,4,"1,200,000",2,1500,1176000
+2024-04-30,Luxury Apartment A,7,"1,238,000",NA,1600,"1,238,000"
+2024-05-31,Luxury Apartment A,5,"1,238,000",5.2,1650,1173624
+2024-06-30,Luxury Apartment A,8,"1,238,000",NA,1700,"1,238,000"
+2024-07-31,Luxury Apartment A,11,"1,277,000",NA,1800,"1,277,000"
+2024-08-31,Luxury Apartment A,8,"1,277,000",6,1900,1200380
+2024-09-30,Luxury Apartment A,4,"1,277,000",NA,1850,"1,277,000"
+2024-10-31,Luxury Apartment A,3,"1,296,000",NA,1950,"1,296,000"
+2024-11-30,Luxury Apartment A,4,"1,296,000",3.1,2000,1255824
+2024-12-31,Luxury Apartment A,2,"1,296,000",NA,2100,"1,296,000"
